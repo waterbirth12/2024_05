@@ -1,0 +1,4 @@
+2024_05/Assets/Font/NotoSansJP-VariableFont_wght[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
+2024_05/Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/GameAssembly.a filter=lfs diff=lfs merge=lfs -text
+2024_05/Library/PackageCache/com.unity.burst@1.8.12/.Runtime/libburst-llvm-16.dylib filter=lfs diff=lfs merge=lfs -text
+2024_05/Library/Bee/artifacts/WebGL/il2cppOutput/build/GameAssembly.a filter=lfs diff=lfs merge=lfs -text

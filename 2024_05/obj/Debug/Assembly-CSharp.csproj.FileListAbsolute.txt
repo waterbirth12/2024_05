@@ -1,0 +1,2 @@
+D:\Fork\2024_05\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Fork\2024_05\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

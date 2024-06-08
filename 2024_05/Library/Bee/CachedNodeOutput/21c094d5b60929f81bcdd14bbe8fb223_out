@@ -1,0 +1,4 @@
+
+D:\Fork\2024_05>set MYDIR=C:\Program Files\Unity\Hub\Editor\2023.2.7f1\Editor\Data\PlaybackEngines\WebGLSupport\BuildTools\Emscripten\emscripten\ 
+
+D:\Fork\2024_05>goto FOUND_MYDIR 
